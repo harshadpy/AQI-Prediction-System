@@ -1,4 +1,4 @@
-AQI Prediction Using Machine Learning
+#AQI Prediction Using Machine Learning
 
 This project focuses on predicting the Air Quality Index (AQI) based on various environmental features using machine learning techniques. It aims to help assess and forecast pollution levels in advance, enabling informed decision-making for public health and environmental management.
 
